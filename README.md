@@ -27,4 +27,24 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujal1201&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal1201&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## Achivements 🏆
+
+- **Hacktoberfest 2024**
+
+[![An image of @sujal1201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujal1201)](https://holopin.io/@sujal1201)
+
+- **GSSoC Extd 2024**
+<a href="https://sujalpatil.vercel.app/">
+<table>
+  <tr align="center">
+    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+      <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+      <br>
+      <strong>Explorer Badge</strong>
+    </td>
+  </tr>
+</table>
+</a>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
