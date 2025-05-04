@@ -65,6 +65,13 @@
 <img src="https://media.licdn.com/dms/image/v2/D5622AQG9ZuFEGj10SA/feedshare-shrink_800/feedshare-shrink_800/0/1730989004472?e=2147483647&v=beta&t=qaZbWhGkkvpYEO-Uql6BgTH1FrtYydlI4XMuoT2Gmek" width="100px" height="100px" />
 
  </div>
+ 
+ <!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sujal1201&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 
  <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
