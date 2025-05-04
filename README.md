@@ -21,11 +21,21 @@
 ### ⚡ Fun Fact<br>
 - I enjoy experimenting with different programming languages to create unique projects, from simple utilities to interactive web applications.
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujalpatil3799) 
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 # 📊 GitHub Stats:
 <a href="https://github.com/sujal1201">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal1201&theme=algolia"/>
@@ -33,6 +43,10 @@
    <img height="191em" src="https://github-readme-stats.vercel.app/api?username=sujal1201&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal1201&theme=algolia&hide_border=true&stroke=0000" />
 </a>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 ## Achivements 🏆
 
 - **Hacktoberfest 2024**
