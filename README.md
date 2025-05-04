@@ -65,8 +65,14 @@
 <img src="https://media.licdn.com/dms/image/v2/D5622AQG9ZuFEGj10SA/feedshare-shrink_800/feedshare-shrink_800/0/1730989004472?e=2147483647&v=beta&t=qaZbWhGkkvpYEO-Uql6BgTH1FrtYydlI4XMuoT2Gmek" width="100px" height="100px" />
 
  </div>
- 
 
+ <!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
