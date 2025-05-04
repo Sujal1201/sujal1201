@@ -74,6 +74,12 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal1201&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=sujal1201&icon=0&color=0)](https://visitcount.itsvg.in)
