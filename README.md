@@ -94,7 +94,7 @@
 </div>
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" Width="600px" Height="800px">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" Width="400px" Height="400px">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
