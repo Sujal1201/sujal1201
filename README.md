@@ -55,7 +55,7 @@
 
 ## Achivements 🏆
 
-- **Hacktoberfest 2024**
+- **Hacktoberfest 2024 & 2025**
 
 [![An image of @sujal1201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujal1201)](https://holopin.io/@sujal1201)
 
